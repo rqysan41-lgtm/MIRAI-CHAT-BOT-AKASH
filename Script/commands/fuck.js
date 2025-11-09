@@ -4,7 +4,7 @@ module.exports.config = {
     hasPermssion: 2,
     credits: "C B T",
     description: "Get fuck",
-    commandCategory: "nsfw",
+    commandCategory: "fun",
     usages: "[@mention]",
     cooldowns: 5,
     dependencies: {
