@@ -4,7 +4,7 @@ module.exports.config = {
  hasPermssion: 0,
  credits: "Islamick Cyber Chat",
  description: "create your video link",
- commandCategory: "media", 
+ commandCategory: "Tools", 
  usages: "[tag]", 
  cooldowns: 0,
 };
