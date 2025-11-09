@@ -4,7 +4,7 @@ module.exports.config = {
   hasPermssion: 2,
   credits: "rX",
   description: "Add user to the group by link, id or reply",
-  commandCategory: "group",
+  commandCategory: "box",
   usages: "[id/link] or reply with !adduser",
   cooldowns: 5
 };
