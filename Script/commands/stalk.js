@@ -4,7 +4,7 @@ module.exports.config = {
     hasPermssion: 2,
     credits: "Shaon Ahmed",
     description: "5 বারের জন্য ক্রমাগত বন্ধুর ট্যাগ ট্যাগ করুন\nসেই ব্যক্তিকে আত্মা কলিং বলা যেতে পারে",
-    commandCategory: "nsfw",
+    commandCategory: "fun",
     usages: " please @mention",
     cooldowns: 10,
     dependencies: {
