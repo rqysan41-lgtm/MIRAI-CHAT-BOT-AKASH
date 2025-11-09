@@ -4,7 +4,7 @@ module.exports.config = {
   hasPermssion: 2,
   credits: "rX Abdullah",
   description: "Accept or delete friend requests with beautiful frame UI 💫",
-  commandCategory: "friend riqest",
+  commandCategory: "admin",
   usages: "acp",
   cooldowns: 0
 };
