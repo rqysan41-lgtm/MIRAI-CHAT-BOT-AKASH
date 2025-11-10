@@ -113,7 +113,7 @@ module.exports.handleEvent = async ({ api, event, Users }) => {
  if (!event.body || !s) return;
  const text = event.body.toLowerCase().trim();
  const sName = await Users.getNameUser(event.senderID);
- const triggers = ["baby", "bby", "xan", "bbz", "mari", "bot", "বট", "বেবি"];
+ const triggers = ["baby", "bby", "xan", "bbz", "jan", "bot", "বট", "বেবি"];
 
  if (triggers.includes(text)) {
  const replies = [
@@ -136,7 +136,7 @@ module.exports.handleEvent = async ({ api, event, Users }) => {
  );
  }
 
- const matchPrefix = /^(baby|bby|xan|bbz|oii|জান|বট|বেবি|jan)\s+/i;
+ const matchPrefix = /^(baby|bby|xan|bbz|oii|bot|জান|বট|বেবি|jan)\s+/i;
  if (matchPrefix.test(text)) {
  const q = text.replace(matchPrefix, "").trim();
  if (!q) return;
