@@ -1,5 +1,5 @@
 {
-    "language": "en",
+    "language": "ar_SY",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -19,12 +19,12 @@
     "BOTNAME": "♡┋Տʜɪᴢᴜᴋꫝㅤᥫ᭡",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100078049308655",
-        "61577213967981",
+        "61583321681266",
+        "61583321681266",
         " "
     ],
     "NDH": [
-        "100078049308655"
+        "61583321681266"
     ],
     "DATABASE": {
         "sqlite": {
